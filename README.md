@@ -1,2 +1,2 @@
 # httpserver
-python
+## Use python main.py <port> to start
